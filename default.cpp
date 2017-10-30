@@ -2,7 +2,6 @@
 #include<bits/stdc++.h>
 #include<unistd.h>
 using namespace std;
-#define FZ(n) memset((n),0,sizeof(n))
 #define FMO(n) memset((n),-1,sizeof(n))
 #define F first
 #define S second
